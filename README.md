@@ -2,6 +2,8 @@
 - I am 10 years old
 - I know how to swim
 - I play the piano
+- I am in 5th grade
+- My name is Rishaan Kotian
 - I code in c, some c++, and vb.net
 - Visit me at https://rishaankotian.wixsite.com/home
 
