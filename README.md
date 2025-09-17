@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rishaan
-I'm a Freshman. I like coding and creating.
+I'm a Sophomore. I like coding and creating.
   ## 🌐 Here are some languages I've tried/am good at
 <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C Sharp" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
